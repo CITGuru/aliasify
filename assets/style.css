@@ -56,3 +56,8 @@ html {
     transparent 80%
   );
 }
+
+.footer-c  {
+  background: #f8f9fa;
+  color: #678;
+}
